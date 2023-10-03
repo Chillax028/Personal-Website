@@ -1,0 +1,28 @@
+  
+body{
+    background-color: #9400FF;
+    
+    color: aliceblue;
+}
+.head{
+    background-color: #AED2FF;
+}
+.footer{
+    padding-bottom: 1px;
+    background-color: #AED2FF;
+}
+.card {
+    background-color: #AED2FF;
+    
+}
+div>h2{
+    text-align: center;
+}
+.work{
+    justify-content: space-around;
+}
+.icon-square{
+    border: solid black;
+    border-radius: 40%;
+    background-color:#AED2FF;
+}
